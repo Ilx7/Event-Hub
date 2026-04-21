@@ -11,4 +11,5 @@ Technologies used
 - HTML5
 
 - The work was done independently based on a laboratory assignment.
-[index.html.html](https://github.com/user-attachments/files/26932449/index.html.html)
+
+[index.html](https://github.com/user-attachments/files/26932449/index.html.html)
