@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Event Hub</title>
+  </head>
+
+  <body></body>
+  <header>
+    <h1>Event Hub</h1>
+    <nav>
+      <ul>
+        <li><a href="#upcoming-events">Upcoming Events</a></li>
+        <li><a href="#past-events">Past Events</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section id="upcoming-events">
+      <h2>upcoming Events</h2>
+      <article>
+        <h3>Raid exit</h3>
+        <p>
+          I set off from the base at Agroprom Research Institute in the
+          direction of the Dump, passing through the territory of Agroprom. Dogs
+          were waiting for me ahead, I easily dealt with them and moved on. I
+          examined the anomalies of Agroprom, but did not find anything useful.
+          We must be careful, because encounters with mutants are possible.
+        </p>
+        <p>
+          <time datetime="2026-03-15T6:00">March 15</time><br />
+          Time: 6:00
+        </p>
+        <img
+          src="https://media.discordapp.net/attachments/920013807479296042/1493850176375226389/ss_player_04-14-26_22-33-37_l03_agroprom.png?ex=69e860e4&is=69e70f64&hm=2d8bc835c486ab5503f172f238b45d3d5df1413e2c67314986244ad760f2d17f&=&format=webp&quality=lossless&width=1552&height=873"
+          alt="After the emission, I raid the Agroprom Research Institute."
+        />
+      </article>
+      <article>
+        <h3>Searching for artifacts after the ejection</h3>
+        <p>
+          After going through Agroprom, I decided to go to the Dump, because
+          there might be a better chance of finding something valuable there. It
+          is after the ejection that artifacts often appear in new places, and I
+          hope to stumble upon something rare. I move carefully, because
+          dangerous mutants are awake and can appear anywhere.
+        </p>
+        <p>
+          <time datetime="2026-03-15T10:00">March 15</time><br />
+          Time: 10:00
+        </p>
+        <img
+          src="https://media.discordapp.net/attachments/920013807479296042/1495296660782190754/ss_player_04-18-26_22-34-51_l02_garbage.png?ex=69e85e09&is=69e70c89&hm=79fba22ee427992f41daddc4a8dfd8bfe3dd3a67d845137e9e8715b92fab1d17&=&format=webp&quality=lossless&width=1552&height=873"
+          alt="at the dump shortly before the chimera"
+        />
+      </article>
+    </section>
+    <section id="past-events">
+      <h2>Past Events</h2>
+      <article>
+        <h3>Encounter with a chimera</h3>
+        <p>
+          I encountered a chimera near the "Gazirovka" anomaly. It was a
+          difficult and exhausting battle: the mutant attacked quickly and
+          fiercely, forcing me to retreat and seek cover. However, thanks to my
+          endurance and accurate shots, I was able to defeat him. After the
+          battle, I still couldn't believe for a long time that a chimera could
+          appear in the Dump.
+        </p>
+        <p>
+          <time datetime="2026-03-15T14:00">March 15</time><br />
+          Time: 14:00
+        </p>
+        <img
+          src="https://media.discordapp.net/attachments/1306301534316920923/1496097886017032254/Anomaly_Gamma_Screenshot_2026.04.17_-_22.39.25.58.png?ex=69e8a53c&is=69e753bc&hm=4486e7e3034e795f3f28a7a62718954403e17a2866defdf7545d4ee03557814c&=&format=webp&quality=lossless&width=1397&height=786"
+          alt="killed the chimera, received a minor injury"
+        />
+      </article>
+      <article>
+        <h3>Return to base</h3>
+        <p>
+          After the foray, I was returning to the Agroprom Research Institute
+          base. The Chimera managed to slightly injure me, but the wound was not
+          critical, and I was able to reach safe territory. The way back was
+          tense, as I constantly looked around, expecting new dangers. In the
+          end, I reached my people, feeling relieved and tired.
+        </p>
+        <p>
+          <time datetime="2026-03-15T18:00">March 15</time><br />
+          Time: 18:00
+        </p>
+        <img
+          src="https://media.discordapp.net/attachments/920013807479296042/1492929200800399431/AnomalyDX11_2025-12-04_01-25-51_098.png?ex=69e7aa2a&is=69e658aa&hm=e468b62b43532e2617876f13147ed6a1f9307fb9815076cd0ff3db4d6f508c65&=&format=webp&quality=lossless&width=1552&height=873"
+          alt="return to base at Agroprom Research Institute"
+        />
+      </article>
+    </section>
+  </main>
+</html>
