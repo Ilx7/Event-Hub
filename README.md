@@ -12,5 +12,5 @@ Technologies used
 
 - The work was done independently based on a laboratory assignment.
 
-[index.html.html](https://github.com/user-attachments/files/26966732/index.html.html)
+[index.html](https://github.com/user-attachments/files/26966732/index.html.html)
 
