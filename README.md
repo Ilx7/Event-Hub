@@ -14,4 +14,4 @@ Technologies used
 
 
 
-[index.html.html](https://github.com/user-attachments/files/27054711/index.html.html)
+[index.html](https://github.com/user-attachments/files/27054711/index.html.html)
