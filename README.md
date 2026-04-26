@@ -12,7 +12,8 @@ Technologies used
 
 - The work was done independently based on a laboratory assignment.
 
-[index.html](https://github.com/user-attachments/files/27105334/index.html)<!DOCTYPE html>
+[index.html](https://github.com/user-attachments/files/27105334/index.html)
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8" >
